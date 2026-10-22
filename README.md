@@ -1,4 +1,4 @@
-![Daniel Zeltser — from customer problem to production AI](./assets/profile-banner.svg)
+![Daniel Zeltser — healthcare and technology](./assets/profile-banner.svg)
 
 <h1 align="center">Daniel Zeltser</h1>
 <p align="center"><strong>Biomedical Engineering · AI · Healthcare Technology</strong></p>
