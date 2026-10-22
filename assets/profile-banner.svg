@@ -1,12 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
-  <title id="title">Daniel Zeltser — AI products for real-world workflows</title>
-  <desc id="desc">Dark green banner with a subtle connected workflow illustration.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#183b30"/><stop offset="1" stop-color="#2f4c32"/></linearGradient></defs>
+  <title id="title">Daniel Zeltser — from customer problem to production AI</title>
+  <desc id="desc">Warm orange editorial banner with a radiating beacon motif.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8f390f"/><stop offset="1" stop-color="#cf7425"/></linearGradient></defs>
   <rect width="1200" height="260" rx="16" fill="url(#bg)"/>
-  <path d="M0 52H1200M0 104H1200M0 156H1200M0 208H1200M52 0V260M104 0V260M156 0V260M208 0V260M260 0V260M312 0V260M364 0V260M416 0V260M468 0V260M520 0V260M572 0V260M624 0V260M676 0V260M728 0V260M780 0V260M832 0V260M884 0V260M936 0V260M988 0V260M1040 0V260M1092 0V260M1144 0V260" stroke="#dce8d3" stroke-opacity=".07"/>
-  <circle cx="1065" cy="130" r="132" fill="#b4d2ad" opacity=".07"/>
-  <g stroke="#b9d6ba" stroke-width="3" stroke-opacity=".68" fill="none"><path d="M787 126H897M945 126H1050"/><path d="m889 117 10 9-10 9m153-18 10 9-10 9"/></g>
-  <g fill="#e9f2e1" font-family="Arial, Helvetica, sans-serif"><text x="52" y="68" font-size="15" font-weight="700" letter-spacing="4">ENGINEER  /  BUILDER  /  OPERATOR</text><text x="52" y="132" font-size="42" font-weight="700">AI that works in the real world.</text><text x="52" y="178" font-size="23" fill="#c9dfca">Healthcare · customer workflows · production systems</text></g>
-  <g fill="#e6f0df" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="16" text-anchor="middle"><circle cx="770" cy="126" r="25" fill="#4f765b" stroke="#b9d6ba" stroke-opacity=".5"/><text x="770" y="132">01</text><circle cx="921" cy="126" r="25" fill="#4f765b" stroke="#b9d6ba" stroke-opacity=".5"/><text x="921" y="132">02</text><circle cx="1075" cy="126" r="25" fill="#4f765b" stroke="#b9d6ba" stroke-opacity=".5"/><text x="1075" y="132">03</text></g>
-  <g fill="#d7e8d5" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle"><text x="770" y="176">DISCOVER</text><text x="921" y="176">DEPLOY</text><text x="1075" y="176">OPERATE</text></g>
+  <circle cx="1050" cy="129" r="157" fill="#ffd18c" opacity=".16"/>
+  <circle cx="1050" cy="129" r="115" fill="none" stroke="#ffe0ad" stroke-width="3" opacity=".45"/>
+  <circle cx="1050" cy="129" r="72" fill="none" stroke="#ffe0ad" stroke-width="3" opacity=".55"/>
+  <circle cx="1050" cy="129" r="27" fill="#ffe8bf" opacity=".85"/>
+  <path d="M869 129h51M1180 129h20M1050 0v28M1050 231v29M922 1l36 36M1142 220l36 36M1177 0l-36 36M959 220l-36 36" stroke="#ffdfa9" stroke-width="5" stroke-linecap="round" opacity=".47"/>
+  <g fill="#fff8ec" font-family="Arial, Helvetica, sans-serif">
+    <text x="52" y="47" font-size="15" font-weight="800" letter-spacing="3">FORWARD DEPLOYED ENGINEERING  /  HEALTHCARE AI</text>
+    <text x="52" y="121" font-size="47" font-weight="800" letter-spacing="-1">From customer problem</text>
+    <text x="52" y="177" font-size="47" font-weight="800" letter-spacing="-1">to production AI.</text>
+    <text x="52" y="222" font-size="19" font-weight="600" fill="#ffe4bb">Build · deploy · operate</text>
+  </g>
 </svg>
