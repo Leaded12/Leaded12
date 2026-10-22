@@ -1,4 +1,4 @@
-![Daniel Zeltser — healthcare and technology](./assets/profile-banner.svg)
+![Daniel Zeltser — healthcare and technology](./assets/healthcare-banner.svg)
 
 <h1 align="center">Daniel Zeltser</h1>
 <p align="center"><strong>Biomedical Engineering · AI · Healthcare Technology</strong></p>
