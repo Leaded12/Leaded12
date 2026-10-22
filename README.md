@@ -1,3 +1,5 @@
+![Daniel Zeltser — AI that works in the real world](./assets/profile-banner.svg)
+
 <h1 align="center">Daniel Zeltser</h1>
 <p align="center"><strong>Forward Deployed Engineer · Healthcare AI · Product Builder</strong></p>
 <p align="center">
@@ -22,9 +24,9 @@ I build AI products where messy customer workflows meet real operational constra
 
 [![Python](https://img.shields.io/badge/Python-2f4c32?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-2f4c32?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/React-2f4c32?style=flat-square&logo=react&logoColor=white)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next.js-2f4c32?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
-**AI & prototyping**
+**AI, deployment & prototyping**
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-607c60?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Arduino](https://img.shields.io/badge/Arduino-607c60?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/) [![Git](https://img.shields.io/badge/Git-607c60?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-607c60?style=flat-square&logo=openai&logoColor=white)](https://openai.com/) [![Claude](https://img.shields.io/badge/Claude-607c60?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude) [![TensorFlow](https://img.shields.io/badge/TensorFlow-607c60?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Vercel](https://img.shields.io/badge/Vercel-607c60?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/) [![Arduino](https://img.shields.io/badge/Arduino-607c60?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/) [![Git](https://img.shields.io/badge/Git-607c60?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 **What I focus on:** AI agents · customer discovery · workflow automation · healthcare operations · production reliability.
 
